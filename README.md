@@ -1,1 +1,174 @@
-# CarBazar
+<!doctype html>
+<html>
+	<head> 
+	<title> CarBazar Bestcar Buy /Sell </title>
+	</head>
+	
+<body> 
+	<p>
+	<img src = "carnewlogo.jpg" width="1200" hight="120" 			Align="left" </P>
+	<br>
+	<bR>
+	<h1> CarBazar</H1> 
+	<p align="left" > Hi this is test page for html,tring to 	make simple page CarBazar. You can buy & sell your best 	car online here,Car dealerships are usually franchised to 	sell and service vehicles by specific companies. They are 	often located on properties offering enough room to have 	buildings housing a showroom, mechanical service, and body 	repair facilities, as well as to provide storage for used 	and new vehicles. Many dealerships are located out of town 	or on the edge of town centers.
+		<br>
+		<br>
+	<br>
+	<br>
+	<h3>Registration </H3>
+	<lable for ="Email"> Email: </lable><br>
+	<input type="text"id="Email"> <br><br>
+
+	<lable for="Username"> Username: </lable><br>
+	<input type="text" Id="Username"> <br> <br>
+
+	<lable for="Password">Password: </Lable><Br>
+	<input type="text" id="Password">
+	<br>
+	<input type="Submit" Value"Submit"> 
+	<BR>
+	<br>
+	<font face="seript" color="green">Already have account?</font>
+<a href="file:///C:/Users/WAKIL/Desktop/html%20source/2nd%20test%20.html?AcuraorToyotaorHonda=on"> SignIn </A><br>
+<br>
+<br>
+	<h3> Car details </h3>
+<form>
+<input type bgcolor="red">
+
+<fieldset>
+<legend> <b> Car details </B> </legend>
+
+
+	 Firstname:<input type="text" Name= "n1"> Lastname:<input 				type="text" Name= "n1"> <br> <Br>
+	Email:&nbsp&nbsp&nbsp<input type="Email" Email= "Email"> 	<br> <br>
+	Car Reg No:<input type="text" Name= "Car 					Registration"><br><br>
+	Car Tag No:<input type="text" Name= "Car tag"> <br>
+	<Br>
+	<b>New :</B> <input type="Radio" Name="NeworUsed" 	value="New">
+
+	<b>Used :</B> <input type="Radio" Name="NeworUsed" 	value="used"> &nbsp&nbsp&nbsp
+
+	<B> Car Made </B>
+	<select Name="Car Made">
+	<option> Acura </option>
+	<option> Toyota </option>
+	<option> Honda </option>
+	</select> &nbsp&nbsp&nbsp
+
+	<B> Model </B>
+	<select Name="Car Made">
+	<option> RDX </option>
+	<option> Highlander </option>
+	<option> CR V </option>
+	</select> &nbsp&nbsp&nbsp
+
+
+
+	<B> Type </B>
+	<select Name="Type">
+	<option> Sedan </option>
+	<option> Suv </option>
+	<option> Truck </option>
+	</select> &nbsp&nbsp&nbsp
+
+	<B> Year</B>
+	<select Name="Type">
+	<option> 2012 </option>
+	<option> 2013 </option>
+	<option> 2014</option>
+	<option> 2015 </option>
+	<option> 2016 </option>
+	<option> 2017</option>
+	</select>
+	
+
+</fieldset>
+<input type="Reset" Value="Reset"> 
+</form>
+<br>
+<br>
+
+	<iframe align="right" width="660" height="215" 				src="https://www.youtube.com/embed/H2IfJwo6tiY" 		frameborder="0" allow="accelerometer; autoplay; encrypted-	media; gyroscope; picture-in-picture" allowfullscreen>	</iframe><br>
+	Acura:
+	<input type="radio" name="AcuraorToyotaorHonda"value"">
+	Toyota:
+	<input type="radio" name="AcuraorToyotaorHonda"value"">
+	Honda:
+<input type="radio" name="AcuraorToyotaorHonda"value"">
+<br>
+
+	<body>
+<ul>
+<li>Toyota </li>
+<li>Honda</li>
+<li>Acura </li>
+</ul>
+
+<ol>
+<li>Automatic</li>
+<li>Manual</li>
+<li>Hybrid</li>
+</ol>
+
+<form action=""method""><br>
+Coments:<br>
+<textarea rows="10" columns="20"  cell="30"> </textarea> <br>
+<input type="Submit" Value"Submit">
+
+
+<!--input element go here-->
+
+<p>Please click the video link
+<A href="www.youtube.com"> terms & conditions </a>
+
+
+<ol>
+Which model is below car?
+<li> <a href="https://www.acura.com/"> Acura </a> </li>
+<li> <a href="https://www.toyota.com/"> Toyota</a> </li>
+</ol>
+
+<P>
+	<img src="car.jpg"width="300" hight="150">
+	<img src="hondait.jpeg " width="220" 	hight="100">
+	<img src="toyotacar.jpg"width="300" hight="150">
+</P>
+
+
+	
+<table border="2" bgcolor="green" hight="100" width=800"> 		<caption> <b> Car rating 	</caption> 
+	<tr>
+		<th rowspan="4">Car</th>
+		<th> Made </th>
+		<th> Model </th>
+		<th> Year </th>
+	</tr>
+	<tr>
+		<td> Acura</td>
+		<td> Toyota </td>
+		<td> Honda </td>	
+	</tr>
+	<tr>
+		<td> RDX</td>
+		<td> Highlander </td>
+		<td> CR V </td>	
+	</tr>
+
+	<tr>
+		<td> 2014</td>
+		<td> 2020 </td>
+		<td> 2018 </td>	
+	</tr>
+
+
+
+
+
+	</body>
+
+
+
+
+
+</html>
